@@ -77,7 +77,6 @@ Projects include:
 ## Contact
 
 GitHub: https://github.com/olatunjiabel231-coder  
-LinkedIn: (Add when ready)
 
 ---
 
