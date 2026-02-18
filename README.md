@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Olatunji Olubi 👋
 
 I am an aspiring Security Operations Center (SOC) Analyst focused on threat detection, incident investigation, and security monitoring using Microsoft security technologies.
