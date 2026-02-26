@@ -1,4 +1,5 @@
-# Hi, I'm Olatunji Olubi 👋
+# Hi, I'm Olatunji Olubi 
+Cloud-focused SOC Analyst in training | Microsoft Sentinel • Defender XDR • KQL • Threat Detection
 
 I am an aspiring Security Operations Center (SOC) Analyst focused on threat detection, incident investigation, and security monitoring using Microsoft security technologies.
 
@@ -43,7 +44,7 @@ My goal is to become a professional SOC Analyst capable of detecting, analyzing,
 
 I document my hands-on SOC labs and detection engineering projects here:
 
-👉 https://github.com/olatunjiabel231-coder/sc200-soc-portfolio
+ https://github.com/olatunjiabel231-coder/sc200-soc-portfolio
 
 Projects include:
 
