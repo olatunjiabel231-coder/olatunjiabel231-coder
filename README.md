@@ -50,7 +50,7 @@ Projects include:
 
 - SOC Environment Setup (Microsoft Sentinel) — Completed  
 - Detection Engineering & Brute Force Login Detection — Completed  
-- Ongoing — Security Incident Investigation  
+- Ongoing — Security Incident Investigation — Completed
 - Ongoing — Threat Hunting with KQL  
 
 ---
